@@ -68,7 +68,7 @@ class Program
             ----- MENÚ -----
             1. Mostrar términos
             2. Añadir término
-            2. Guardar términos en un archivo .txt
+            3. Guardar términos en un archivo .txt
             Selecciona una opción: 
             """);
             string opcion = Console.ReadLine()?.Trim() ?? "";

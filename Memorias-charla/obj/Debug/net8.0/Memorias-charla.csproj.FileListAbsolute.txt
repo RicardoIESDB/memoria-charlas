@@ -12,3 +12,4 @@ c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memori
 c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.pdb
 c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.genruntimeconfig.cache
 c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\ref\Memorias-charla.dll
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.sourcelink.json

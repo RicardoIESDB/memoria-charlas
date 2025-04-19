@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memorias-charla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa0977d06a6edb7881fb605b94b968c9585cb52d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memorias-charla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memorias-charla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
