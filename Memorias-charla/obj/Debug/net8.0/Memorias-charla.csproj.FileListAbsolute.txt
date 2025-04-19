@@ -1,0 +1,14 @@
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\bin\Debug\net8.0\Memorias-charla.exe
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\bin\Debug\net8.0\Memorias-charla.deps.json
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\bin\Debug\net8.0\Memorias-charla.runtimeconfig.json
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\bin\Debug\net8.0\Memorias-charla.dll
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\bin\Debug\net8.0\Memorias-charla.pdb
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.AssemblyInfoInputs.cache
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.AssemblyInfo.cs
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.csproj.CoreCompileInputs.cache
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.dll
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\refint\Memorias-charla.dll
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.pdb
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\Memorias-charla.genruntimeconfig.cache
+c:\Users\Ricardo\OneDrive - Conselleria d'Educació\Proyecto Intermodular\memoria-charlas\Memorias-charla\obj\Debug\net8.0\ref\Memorias-charla.dll
